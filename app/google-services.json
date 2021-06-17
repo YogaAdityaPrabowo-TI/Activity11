@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26412670950",
+    "project_id": "pamactivity9",
+    "storage_bucket": "pamactivity9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26412670950:android:8ef9aae23e7a709d6f8027",
+        "android_client_info": {
+          "package_name": "com.example.pamactivity9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26412670950-dbc5qt2rqsikjjsvetsijq4dedt45hub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4wje14pwwiraQE_-uzCkmnDYkWIsmoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26412670950-dbc5qt2rqsikjjsvetsijq4dedt45hub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
