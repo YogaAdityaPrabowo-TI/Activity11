@@ -37,4 +37,8 @@ public class Barang implements Serializable{
                 ", nama='" + nama + '\'' +
                 '}';
     }
+
+    public void setKode(String kode) {
+        this.kode = kode;
+    }
 }
